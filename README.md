@@ -19,4 +19,4 @@ User fills a specific date and country(only countries that are part of the Unite
 In the ErrorLog.xaml you can assign a log file name and a folder path.
 By default are assigned to:
 * File name: "log.txt"
-* Folder path: "C:\UK holidays log\"
+* Folder path: "C:\UK holidays log\\"
